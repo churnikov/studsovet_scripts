@@ -64,5 +64,5 @@ def gen_news(title, subtitle, image_in, image_out=None):
 
     save_image(image, image_in, image_out)
 
-# if __name__ == '__main__':
-#
+if __name__ == '__main__':
+    gen_news("Факультет\nВоенного обучения", "Набор сержантов запаса", "/Users/nikita/Downloads/2018-03-29 19.04.49.jpg") 
