@@ -146,4 +146,7 @@ text_analysis/models
 
 
 ### Credentials
-credentials.*
+credentials.
+
+### MacOS shit
+.DS_Store
